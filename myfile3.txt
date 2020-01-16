@@ -1,1 +1,1 @@
-This is some text in myFile3.
+This is some text in myFile3. Isnt?
